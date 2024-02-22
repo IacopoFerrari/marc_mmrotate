@@ -10,7 +10,7 @@ mmrotate/tools/data/marc/val/annots
 
 e dentro inseriti file .txt con stesso nome dell'immagine.
 
-con la seguente notazione (vedi esempio nel file prepare_data.py):
+con la seguente notazione:
 278 487 415 577 373 640 236 551 num 0
 319 341 524 475 475 550 270 415 den 0
 
